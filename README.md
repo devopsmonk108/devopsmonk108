@@ -29,12 +29,6 @@
   <img src="https://streak-stats.demolab.com/?user=devopsmonk108&theme=radical&hide_border=true"/>
 </p>
 
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devopsmonk108&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10"/>
-</p>
-
 ## 📈 Contribution Activity
 
 <p align="center">
